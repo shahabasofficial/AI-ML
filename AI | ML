@@ -18,4 +18,41 @@ __________________________________________________________________________
 
 What is Deep Learning ?
 
-Deep Learning is a subfield of Machine Learning that uses Artificial Neural Networks to learn from the data.				        
+Deep Learning is a subfield of Machine Learning that uses Artificial Neural Networks to learn from the data.
+
+__________________________________________________________________________
+
+                    Type Of Machine Learning
+                                |
+                                
+            1. Supervised Learning  =>  In Supervised Learning the machines learning algorithm learn from LABELLED DATA
+
+            2. Unsupervied Learning =>  In Unsupervised Learning the machines learning algorithm learn from UNLABELLED DATA
+
+            3. Reinforcement Learning => Reinforcement Learning is an area of machines learning concered with how intelligent 
+
+                                         agents take actions in an environment to maximize its reward
+
+
+___________________________________________________________________________
+
+                    
+                Types of Supervised Learning
+            ------------------------------------
+             |                 |               |
+                               |
+       Classification          |           Regression
+       --------------          |           ----------
+                               |
+    Classification is about      Regression is about prediction
+    prediction a class or        a quantity or continous values
+    discreate value.             
+                                 exmaple : salary , age , price
+    example : male & female
+              True & False
+
+
+
+
+
+
